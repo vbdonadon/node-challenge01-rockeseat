@@ -1,0 +1,17 @@
+{
+  "name": "node-challenge01-rockeseat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vbdonadon/node-challenge01-rockeseat.git",
+  "author": "Vinicius Donadon <biumdonadon@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
